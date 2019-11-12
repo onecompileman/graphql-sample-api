@@ -1,0 +1,24 @@
+{
+  "name": "graphql-sample",
+  "version": "1.0.0",
+  "description": "Sample API using node.js and GraphQl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onecompileman/graphql-sample-api.git"
+  },
+  "keywords": [
+    "node.js",
+    "graphql",
+    "javascript"
+  ],
+  "author": "stephen.vinuya@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onecompileman/graphql-sample-api/issues"
+  },
+  "homepage": "https://github.com/onecompileman/graphql-sample-api#readme"
+}
